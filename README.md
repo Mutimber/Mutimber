@@ -21,6 +21,7 @@ As a self-taught cybersecurity analyst driven by a passion for safeguarding digi
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Detecting and removing malware using VirusTotal integration on Wazuh | Wazuh Lab|
 
 ## Tools
 
