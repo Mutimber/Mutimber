@@ -22,7 +22,7 @@ As a self-taught cybersecurity analyst driven by a passion for safeguarding digi
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Detecting and removing malware using VirusTotal integration on Wazuh | Wazuh Lab|
-|Metasploitable 2 and Kali VMs for Vulnerability Management|<a href="https://github.com/Mutimber/Metasploitable-2/blob/main/README.md">Metasploitable 2</a>
+|Metasploitable 2 and Kali VMs for Vulnerability Management|<a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>
 ## Tools
 
 ### Network
