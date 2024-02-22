@@ -55,7 +55,7 @@ As a self-taught cybersecurity analyst driven by a passion for safeguarding digi
 
 <img src="https://img.shields.io/badge/-CC-0052CC?&style=for-the-badge&logo=International Information System Security Certification Consortium&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-006400?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-006400?&style=for-the-badge&logo=Google&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-CCT_Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 
