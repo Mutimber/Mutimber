@@ -64,4 +64,4 @@ As a self-taught cybersecurity analyst driven by a passion for safeguarding digi
 ## Projects
 1. <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>
 2. <a href="https://github.com/Mutimber/Wazuh-Lab"> Wazuh Lab</a>
-3. <a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>|
+3. <a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>
