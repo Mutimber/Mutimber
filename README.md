@@ -5,7 +5,7 @@
 </div>
 
 
-I am a finance graduate who became profoundly drawn to cybersecurity and its role in safeguarding people and corporations online.
+I am a driven security profes ional with a keen eye on the role of cybersecurity in safeguarding people and resources online.
 
 ## Objective
 
