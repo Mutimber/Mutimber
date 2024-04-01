@@ -9,7 +9,7 @@ I am a finance graduate who became profoundly drawn to cybersecurity and its rol
 
 ## Objective
 
-As a self-taught cybersecurity analyst driven by a passion for safeguarding digital assets, my objective is to contribute expertise in threat detection and incident response to a Security Operations Center (SOC) team. 
+As a cybersecurity professional driven by a passion for safeguarding digital assets, my objective is to contribute expertise in threat detection and incident response to a Security Operations Center (SOC) team. 
 
 ## Skills
 
