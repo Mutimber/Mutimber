@@ -5,7 +5,7 @@
 </div>
 
 
-I am a driven security profes ional with a keen eye on the role of cybersecurity in safeguarding people and resources online.
+I am a driven security professional with a keen eye on the role of cybersecurity in safeguarding people and resources online.
 
 ## Objective
 
