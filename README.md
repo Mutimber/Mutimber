@@ -15,8 +15,9 @@ As a cybersecurity professional driven by a passion for safeguarding digital ass
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
+| 1. SIEM Implementation and Log Analysis 
+2. Network Traffic Monitoring and Attack Detection| <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
+|  | <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         |                                                                              |
 | Incident Response Planning and Execution      |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
