@@ -17,10 +17,10 @@ As a cybersecurity professional driven by a passion for safeguarding digital ass
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://github.com/Mutimber/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Detecting and removing malware using VirusTotal integration on Wazuh | <a href="https://github.com/Mutimber/Wazuh-Lab"> Wazuh Lab</a>|
 |Metasploitable 2 and Kali VMs for Vulnerability Management|<a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>|
 ## Tools
