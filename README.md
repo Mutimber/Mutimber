@@ -62,6 +62,7 @@ As a cybersecurity professional driven by a passion for safeguarding digital ass
 </div>
 
 ## Projects
-1. <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>
-2. <a href="https://github.com/Mutimber/Wazuh-Lab"> Wazuh Lab</a>
-3. <a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>
+1. <a href="https://github.com/Mutimber/SOC-Analyst-Challenge">SOC Challenge</a>
+2.  <a href="https://github.com/Mutimber/Detection-Lab/tree/main">Detection Lab</a>
+3. <a href="https://github.com/Mutimber/Wazuh-Lab"> Wazuh Lab</a>
+4. <a href="https://github.com/Mutimber/Metasploitable-2/tree/main">Metasploitable 2</a>
